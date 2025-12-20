@@ -1,4 +1,5 @@
 "# Implemented Features" 
+"The Admin can efficiently control access levels for all internal personnel, including granting access to new employees and promptly removing access for those who have left the organization. This is crucial for maintaining platform security, compliance, and ensuring that only current, authorized staff and verified doctors are active on the system." 
 ## T-2: Approve or Reject markate place ads
 The Admin can act as a moderator for the platform's marketplace, preventing scams, removing fraudulent listings, and ensuring that all selling practices adhere to ethical standards and platform guidelines. This maintains the trust and safety of the community using the marketplace for transactions.
 **Status:** Implemented
