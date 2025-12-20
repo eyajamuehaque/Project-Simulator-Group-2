@@ -3,3 +3,7 @@
 The Admin can act as a moderator for the platform's marketplace, preventing scams, removing fraudulent listings, and ensuring that all selling practices adhere to ethical standards and platform guidelines. This maintains the trust and safety of the community using the marketplace for transactions.
 **Status:** Implemented
 
+"## T-1:Login securely using admin credentials" 
+"The Admin can access the administrative backend of the system to perform necessary management and oversight tasks, ensuring that all data and platform functions are controlled by authorized personnel, which is the foundational step for all subsequent administrative actions." 
+"**Status: Implemented**" 
+"" 
