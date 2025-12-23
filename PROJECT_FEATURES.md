@@ -1,4 +1,7 @@
 "# Implemented Features" 
+## T-4: Add new products to the inventory
+Customers visiting the online store have access to the most current and relevant supplies, allowing them to conveniently see and purchase the latest pet food, essential medicines, and other necessary items. This continuous addition of new inventory is vital for maintaining a relevant, competitive, and successful e-commerce shop, thereby increasing revenue generation for the organization.
+**Status:** Implemented
 ## T-3: Manage Product Inventory
 The Admin can ensure the online shop's accuracy by keeping the product listings up-to-date with current stock, prices, and available items. This also allows the Admin to promptly remove any inappropriate, outdated, or unauthorized products from being visible to customers.
 **Status:** Implemented
