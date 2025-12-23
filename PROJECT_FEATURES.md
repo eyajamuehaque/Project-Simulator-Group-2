@@ -25,3 +25,7 @@ The Admin can access the administrative backend of the system to perform necessa
 **Status:** Implemented
 
 ## Implemented Features
+"## T-10: Verify Veterinarian credentials" 
+"The Admin can ensure the credibility and quality of the veterinary services listed on the platform by manually confirming that every doctor possesses the required qualifications and licenses. This is critical for protecting the well-being of the pets served and maintaining the platform's professional reputation." 
+"**Status: Implemented**" 
+"" 
