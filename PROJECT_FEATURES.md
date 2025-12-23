@@ -1,4 +1,7 @@
 "# Implemented Features" 
+## T-6: Search for Products
+The Customer can easily and efficiently locate and purchase all the necessary items required for their pet's health and maintenance directly through the platform. This capability provides a convenient and single source for shopping, saving time and ensuring they can reliably find and acquire required supplies like pet food and medicines.
+**Status:** Implemented
 ## T-5: Update stock levels
 The inventory displayed to customers is always accurate in real-time. This prevents the frustrating situation where customers order items that are actually out-of-stock, which in turn reduces the administrative burden of handling refunds and communicating product unavailability. Accurate stock management improves customer satisfaction and streamlines order fulfillment.
 **Status:** Implemented
