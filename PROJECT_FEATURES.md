@@ -1,5 +1,5 @@
 "# Implemented Features" 
-## T-2: Approve or Reject markate place ads
-The Admin can act as a moderator for the platform's marketplace, preventing scams, removing fraudulent listings, and ensuring that all selling practices adhere to ethical standards and platform guidelines. This maintains the trust and safety of the community using the marketplace for transactions.
+## T-2: Manage Customer/User accounts
+The Admin can maintain a positive, safe, and respectful online community by having the tools to address and remove abusive or disruptive users. This moderation capability is vital for upholding the platform's terms of service and ensuring a secure environment for all legitimate users.
 **Status:** Implemented
 
