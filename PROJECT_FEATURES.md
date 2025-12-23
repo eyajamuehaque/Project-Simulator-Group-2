@@ -1,4 +1,7 @@
 "# Implemented Features" 
+## T-8: View Transaction Reports
+The Admin can effectively monitor the financial health and operational success of the platform by having access to comprehensive reports detailing total revenue from various sources, including shop sales, veterinarian fees, and donations. This allows for informed business decisions and accurate financial accounting.
+**Status:** Implemented
 ## T-7: Process customer orders
 The Staff can efficiently manage the fulfillment workflow by preparing ordered items, packaging them, and ensuring they are ready for delivery or pickup. This prompt and accurate order processing is crucial for delivering customer orders on time and maintaining the organization's reputation for reliable service.
 **Status:** Implemented
