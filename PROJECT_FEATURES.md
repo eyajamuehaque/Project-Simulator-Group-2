@@ -28,3 +28,7 @@ The Admin can access the administrative backend of the system to perform necessa
 **Status:** Implemented
 
 ## Implemented Features
+## T-12: Book a Vet Appointment 
+The Customer can ensure their pet receives timely medical attention and professional care without unnecessary delays, allowing them to proactively manage their pet's health schedule. This immediate booking access simplifies the process of securing a consultation with a qualified veterinarian. 
+"**Status: Implemented**" 
+"" 
